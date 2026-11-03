@@ -1,0 +1,18 @@
+.results-list {
+    width: 100%;
+    max-height: 100px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+.search-result-list {
+    padding: 10px;
+
+}
+
+.search-result-list:hover {
+    background-color: beige;
+
+}

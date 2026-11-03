@@ -1,0 +1,20 @@
+.landing-page {
+    width: 100vw;
+    height: 100vh;
+    background-color: #eee;
+}
+
+.top-part {
+    height: 10%;
+    width: 100%;
+    background-color: #edd;
+}
+
+
+/* .search-bar-contianer {} */
+
+.bottom-part {
+    height: 90%;
+    width: 100%;
+    background-color: #ecc;
+}
